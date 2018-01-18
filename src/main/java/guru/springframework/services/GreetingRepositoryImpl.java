@@ -14,8 +14,8 @@ public class GreetingRepositoryImpl implements GreetingRepository {
     }
     
     @Override
-    public String getSpanishGreeting() {
-        return "Servicio de Saludo Primario";
+    public String getDutchGreeting() {
+        return "Primaire greeting service";
     }
     
     @Override

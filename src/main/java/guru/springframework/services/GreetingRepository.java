@@ -7,7 +7,7 @@ public interface GreetingRepository {
 
     String getEnglishGreeting();
 
-    String getSpanishGreeting();
+    String getDutchGreeting();
 
     String getGermanGreeting();
 }
